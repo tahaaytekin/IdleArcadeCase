@@ -6,6 +6,7 @@ using UnityEngine;
 
 namespace UnityTemplateProjects
 {
+    
     public class SimpleCameraController : MonoBehaviour
     {
         class CameraState
